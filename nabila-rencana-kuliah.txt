@@ -4,5 +4,7 @@ RENCANA KULIAH NABILA
   Mendownload aplikasi  untuk belajar
 - PSB
   Mempelajari materi git dan github
+  Mempelajari materi dari link yang diberikan
+  Mempelajari satu per satu dari video playlist
 - KTI
 - Pedagogik Kejuruan
