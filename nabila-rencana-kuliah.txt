@@ -2,5 +2,6 @@ RENCANA KULIAH NABILA
 
 - SoJar
 - PSB
+  Mempelajari materi git dan github
 - KTI
 - Pedagogik Kejuruan
