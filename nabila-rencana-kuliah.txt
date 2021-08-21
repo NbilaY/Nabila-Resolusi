@@ -6,3 +6,4 @@ RENCANA KULIAH NABILA
   Mempelajari materi git dan github
 - KTI
 - Pedagogik Kejuruan
+- Praktikum Rekayasa Animasi
