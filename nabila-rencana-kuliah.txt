@@ -1,6 +1,7 @@
 RENCANA KULIAH NABILA
 
 - SoJar
+  Mendownload aplikasi  untuk belajar
 - PSB
   Mempelajari materi git dan github
 - KTI
